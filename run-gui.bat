@@ -1,0 +1,3 @@
+@echo off
+echo Starting Employee Management System (GUI Mode)...
+start javaw -cp "bin;lib\*" com.ems.Main --gui
