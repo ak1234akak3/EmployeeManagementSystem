@@ -165,3 +165,4 @@ java -cp "bin;lib\*" com.ems.Main --gui
 - **Phone**: 7–20 digits/symbols with optional international prefix (`+`).
 - **Salary**: Positive floating-point number.
 - **Hire Date**: Standard ISO-8601 format (`YYYY-MM-DD`), defaults to current date.
+"# EmployeeManagementSystem" 
